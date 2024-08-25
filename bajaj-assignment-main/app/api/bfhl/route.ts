@@ -15,9 +15,9 @@ interface BFHLResponse {
   highest_lowercase_alphabet: string[];
 }
 
-const USER_ID = "john_doe_17091999";
-const EMAIL = "aditya.thakur2021@vitbbopal.ac.in";
-const ROLL_NUMBER = "21BCE10620";
+const USER_ID = "Akarshi";
+const EMAIL = "akarshi.alankriti2021@vitbbopal.ac.in";
+const ROLL_NUMBER = "21BCE10592";
 
 const extractData = (data: string[]) => {
   const numbers: string[] = [];
